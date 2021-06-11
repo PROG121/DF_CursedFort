@@ -1,0 +1,11 @@
+C:\Users\Lefuden\source\repos\CursedFort\textAdventure\obj\Debug\CursedFort.csproj.CoreCompileInputs.cache
+C:\Users\Lefuden\source\repos\CursedFort\textAdventure\bin\Debug\CursedFort.exe.config
+C:\Users\Lefuden\source\repos\CursedFort\textAdventure\bin\Debug\CursedFort.exe.manifest
+C:\Users\Lefuden\source\repos\CursedFort\textAdventure\bin\Debug\CursedFort.application
+C:\Users\Lefuden\source\repos\CursedFort\textAdventure\bin\Debug\CursedFort.exe
+C:\Users\Lefuden\source\repos\CursedFort\textAdventure\bin\Debug\CursedFort.pdb
+C:\Users\Lefuden\source\repos\CursedFort\textAdventure\obj\Debug\CursedFort.exe.manifest
+C:\Users\Lefuden\source\repos\CursedFort\textAdventure\obj\Debug\CursedFort.application
+C:\Users\Lefuden\source\repos\CursedFort\textAdventure\obj\Debug\CursedFort.exe
+C:\Users\Lefuden\source\repos\CursedFort\textAdventure\obj\Debug\CursedFort.pdb
+C:\Users\Lefuden\source\repos\CursedFort\textAdventure\obj\Debug\CursedFort.csproj.AssemblyReference.cache
